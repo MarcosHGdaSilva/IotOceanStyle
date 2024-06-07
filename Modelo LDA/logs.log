@@ -293,3 +293,17 @@ Alternately, you can install this by running `pip install pycaret[models]`
                                             tol=0.0001))],
          verbose=False)
 2024-06-07 18:18:05,053:INFO:save_model() successfully completed......................................
+2024-06-07 20:36:57,817:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 20:36:57,817:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 20:36:57,817:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 20:36:57,818:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 20:37:08,279:WARNING:/home/codespace/.python/current/lib/python3.10/site-packages/librosa/core/pitch.py:101: UserWarning: Trying to estimate tuning from empty frequency set.
+  return pitch_tuning(
+
+2024-06-07 20:51:11,198:WARNING:/home/codespace/.python/current/lib/python3.10/site-packages/librosa/core/pitch.py:101: UserWarning: Trying to estimate tuning from empty frequency set.
+  return pitch_tuning(
+
