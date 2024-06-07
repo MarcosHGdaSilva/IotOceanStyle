@@ -1,0 +1,22 @@
+2024-06-07 13:01:23,869:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 13:01:23,869:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 13:01:23,869:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 13:01:23,870:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-06-07 13:01:33,288:WARNING:c:\Users\Marcos\AppData\Local\Programs\Python\Python311\Lib\site-packages\librosa\core\pitch.py:101: UserWarning: Trying to estimate tuning from empty frequency set.
+  return pitch_tuning(
+
+2024-06-07 13:01:43,345:WARNING:c:\Users\Marcos\AppData\Local\Programs\Python\Python311\Lib\site-packages\librosa\core\pitch.py:101: UserWarning: Trying to estimate tuning from empty frequency set.
+  return pitch_tuning(
+
+2024-06-07 13:07:09,964:WARNING:C:\Users\Marcos\AppData\Local\Temp\ipykernel_4880\3265247163.py:7: UserWarning: PySoundFile failed. Trying audioread instead.
+  y, sr = librosa.load(file_path, sr=None)
+
+2024-06-07 13:07:09,964:WARNING:c:\Users\Marcos\AppData\Local\Programs\Python\Python311\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+
