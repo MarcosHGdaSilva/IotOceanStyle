@@ -8,9 +8,8 @@ Estrutura do Repositório
 * Modelo LDA: Scripts e arquivos para o modelo de Linear Discriminant Analysis.
 * Modelo LR: Recursos para o modelo de Logistic Regression.
 * Modelo RFC: Arquivos relacionados ao modelo de Random Forest Classifier.
-audios: Diretório para armazenar arquivos de áudio usados no projeto.
-csv: Contém arquivos CSV para entrada e saída de dados.
-cria_dataset_audio_testes.ipynb: Notebook Jupyter para criar e pré-processar o conjunto de dados de áudio.
+* audios: Diretório para armazenar arquivos de áudio usados no projeto.
+* csv: Contém arquivos CSV para entrada e saída de dados.
 
 Benefícios e Futuro
 A implementação de tais modelos pode auxiliar na preservação da vida marinha ao fornecer dados precisos para pesquisadores e organizações ambientais. Melhorias futuras podem incluir a expansão dos tipos de sons analisados e a integração com sensores IoT para monitoramento em tempo real.
