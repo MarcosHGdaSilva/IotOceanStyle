@@ -13,3 +13,7 @@ Estrutura do Repositório
 
 Benefícios e Futuro
 A implementação de tais modelos pode auxiliar na preservação da vida marinha ao fornecer dados precisos para pesquisadores e organizações ambientais. Melhorias futuras podem incluir a expansão dos tipos de sons analisados e a integração com sensores IoT para monitoramento em tempo real.
+# Os modelos treinados poderão ser utilizados futuramente para:
+    * Identificação e monitoramento de ruídos de embarcações.
+    * Análise do impacto da poluição sonora na vida marinha.
+    * Estudo de padrões acústicos marinhos e comportamento das espécies.
