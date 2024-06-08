@@ -5,6 +5,11 @@
 * 97707 - Lucas Pinheiro de Melo - Turma: 2TDSA
 * 99578 - Marcos Henrique Garrido da Silva - Turma: 2TDSA
 * 98266 - Mel Maia Rodrigues - Turma: 2TDSA
+* 
+## Link do vídeo pitch
+[Link do Video Pitch](https://youtu.be/T5W-6YJYj2Q)
+
+
 
 ## Visão Geral
 O projeto IoT Ocean Style visa desenvolver modelos de aprendizado de máquina para análise de áudio, com foco na classificação de conjuntos de dados de áudio. O repositório contém diversos modelos de aprendizado de máquina e scripts para processamento e análise de dados.
