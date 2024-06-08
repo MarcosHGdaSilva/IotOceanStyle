@@ -1,4 +1,10 @@
 ## IotOceanStyle
+# Integrantes do Projeto Global Solution
+* 98078 - Augusto Barcelos Barros - Turma: 2TDSS
+* 551423 - Izabelly De Oliveira Menezes - Turma: 2TDSS
+* 97707 - Lucas Pinheiro de Melo - Turma: 2TDSA
+* 99578 - Marcos Henrique Garrido da Silva - Turma: 2TDSA
+* 98266 - Mel Maia Rodrigues - Turma: 2TDSA
 
 ## Visão Geral
 O projeto IoT Ocean Style visa desenvolver modelos de aprendizado de máquina para análise de áudio, com foco na classificação de conjuntos de dados de áudio. O repositório contém diversos modelos de aprendizado de máquina e scripts para processamento e análise de dados.
