@@ -10,7 +10,7 @@
 [Link do Video Pitch](https://youtu.be/T5W-6YJYj2Q)
 
 # Documentação
-![documentação](documentacao/GS-OceanStyle-IA.pdf)
+[documentação](documentacao/GS-OceanStyle-IA.pdf)
 
 ## Visão Geral
 O projeto IoT Ocean Style visa desenvolver modelos de aprendizado de máquina para análise de áudio, com foco na classificação de conjuntos de dados de áudio. O repositório contém diversos modelos de aprendizado de máquina e scripts para processamento e análise de dados.
