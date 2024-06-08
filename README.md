@@ -6,7 +6,7 @@
 * 99578 - Marcos Henrique Garrido da Silva - Turma: 2TDSA
 * 98266 - Mel Maia Rodrigues - Turma: 2TDSA
 
-## Link do vídeo pitch
+## Link do vídeo da aplicação 
 [Link do Video Pitch](https://youtu.be/T5W-6YJYj2Q)
 
 # Documentação
